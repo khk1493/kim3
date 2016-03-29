@@ -16,5 +16,7 @@ tiger, apple,
 At last I can understand the brance function in the git.
 ===================
 New start after merge
-
+1593.1
+1593.2
+1593.3
 >>>>>>> exp-2.0
