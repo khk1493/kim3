@@ -20,3 +20,4 @@ New start after merge
 1593.2
 1593.3
 >>>>>>> exp-2.0
+Narmho and Somi plays together.
