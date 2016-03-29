@@ -5,8 +5,14 @@
 1493.5
 1493.6
 1493.7
+<<<<<<< HEAD
 1493.8
 1493.9
 1493.10
 1493.11
 1493.12
+=======
+tiger, apple, 
+At last I can understand the brance function in the git.
+
+>>>>>>> exp-2.0
