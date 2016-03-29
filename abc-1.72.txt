@@ -1,0 +1,12 @@
+This is a source tree software.
+I am trying to use it to undetstand git.
+===== change
+change has been occured.
+change has been occured again again.........
+Today is the day I learned git for the first time!!!
+I love somi.
+i love jesus....
+i love Godddddd...
+commit 하기 전 상태
+I need to explore lots of papers to decide the thesis of my database paper.
+double click master
